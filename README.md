@@ -1,27 +1,33 @@
-# QuizApp
+# Game Of Thrones Quotes Quiz
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
+![Screenshot do projeto]("Screenshot do projeto")
 
-## Development server
+Acesso: TODO
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+#### Desenvolvedor(a)
+Felipe Machado
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+#### Tecnologias
 
-## Build
+- HTML
+- CSS
+- Bootstrap
+- Typescript
+- Angular
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+#### Ambiente de desenvolvimento
 
-## Running unit tests
+- VS Code
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+#### Créditos
 
-## Running end-to-end tests
+- https://gameofthronesquotes.xyz/
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+#### Bastidores
 
-## Further help
+TODO
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+---
+Projeto entregue para a disciplina de [Desenvolvimento de Software para a Web](http://github.com/andreainfufsm/elc1090-2023a) em 2023a
