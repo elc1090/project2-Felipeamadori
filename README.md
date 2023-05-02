@@ -1,8 +1,7 @@
 # Game Of Thrones Quotes Quiz
 
-![Screenshot do projeto]("Screenshot do projeto")
 
-Acesso: TODO
+Acesso: https://elc1090.github.io/project2-Felipeamadori/
 
 
 #### Desenvolvedor(a)
