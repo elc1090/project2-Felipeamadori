@@ -25,7 +25,7 @@ Felipe Machado
 
 #### Bastidores
 
-TODO
+No geral foi bem tranquilo fazer a conexão com a api publica, a ideia era simples entao tentei focar mais em aprender algo relacionado a CSS, além disso aprendi tambem a fazer deploy de uma apliacação angular no github pages, até o momento só tinha feito no heroku.
 
 
 ---
